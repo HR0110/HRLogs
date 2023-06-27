@@ -3,10 +3,8 @@ FiveM ESX logs resource working with discord webhooks and database table also th
 
 # Requirement
 Required scripts without which this script cannot work:
-```
-oxmysql
-es_extended
-```
+- oxmysql
+- es_extended
 
 # Installation
    - Download resource
