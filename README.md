@@ -1,5 +1,6 @@
 # HRLogs
 FiveM ESX logs resource working with discord webhooks and database table also this resource have command about show all identifiers of any player.
+Preview: https://youtube.com/
 
 # Requirement
 Required scripts without which this script cannot work:
